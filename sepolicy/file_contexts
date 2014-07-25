@@ -16,7 +16,6 @@
 /dev/media([0-9])+                 u:object_r:camera_device:s0
 /dev/smd([0-9])+                   u:object_r:smd_device:s0
 /dev/mdm                           u:object_r:radio_device:s0
-/dev/tspdrv		u:object_r:tspdrv_device:s0
 
 # Qualcomm MSM Audio ACDB device
 /dev/msm_acdb       u:object_r:msm_acdb_device:s0
